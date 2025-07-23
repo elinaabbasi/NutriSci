@@ -13,7 +13,7 @@ import java.sql.Date;
 import java.sql.ResultSet;
 import java.util.Arrays;
 
-
+//Use of AI: Used AI to debug code, create SQL statements, and improve operations
 /*this class has methods for creating nutritional related database tables from the CSV Files
  * these methods make sure that the data is only inserted if the table is empty
  */
