@@ -20,6 +20,7 @@ import java.util.HashSet;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
+//Use of AI: Used AI to debug code and improve operations
 /**
  * * a gui panel that allows users to input the nutrient and time period so that they can view their nutrient intake over time
  *
