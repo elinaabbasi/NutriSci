@@ -17,7 +17,7 @@ import java.sql.ResultSet;
 import java.util.HashMap;
 import java.util.Map;
 
-
+//Use of AI: Used AI to debug code and improve operations
 /**
  * displays a bar chart comparing the user's actual food intake proportions
  * to the recommended proportions in the Canada's Food Guide
