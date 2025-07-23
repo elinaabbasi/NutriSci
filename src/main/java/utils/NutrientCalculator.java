@@ -11,7 +11,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-
+//Use of AI: Used AI to debug code and create SQL statements
 /**
  * utility class for calculating nutrient information for ingredients.
  */
