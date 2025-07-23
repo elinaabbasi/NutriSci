@@ -11,7 +11,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 
-
+//Use of AI: Used AI to debug code and improve operations
 /**
  * the MealLogger class has static methods to save and retrieve meal data to and from the database for a user.
  */
