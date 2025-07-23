@@ -17,7 +17,7 @@ import java.sql.ResultSet;
 import java.util.HashMap;
 import java.util.Map;
 
-
+//Use of AI: Used AI to debug code and improve operations
 /**
  * a panel that visualizes a user's meal composition according to Canada's Food Guide.
  * 
