@@ -13,7 +13,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-
+//Use of AI: Used AI to debug code and improve operations
 /**
  * the NutrientPieChart class displays a pie chart visualization of the nutrient breakdown for a meal
  */
