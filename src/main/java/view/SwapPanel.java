@@ -11,6 +11,7 @@ import java.sql.*;
 import java.util.HashMap;
 import java.util.Map;
 
+//Use of AI: Used AI to debug code and improve operations
 /**
  * the SwapPanel class is a gui panel for suggesting and applying the food swaps based on
  * a users nutritional goals. the user can select a food item, a nutrient goal and get a 
