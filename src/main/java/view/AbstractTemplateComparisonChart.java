@@ -11,7 +11,7 @@ import java.awt.*;
 import java.sql.*;
 import java.util.*;
 
-
+//Use of AI: Used AI to debug code and improve operations
 /**
  * AbstractTemplateComparisonChart follows the Template Method design pattern.
  * it provides a template for displaying the swap comparison chart of nutrient values between an original and swapped food item
