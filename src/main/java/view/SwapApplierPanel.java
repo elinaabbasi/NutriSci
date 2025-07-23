@@ -14,6 +14,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.sql.*;
 
+//Use of AI: Used AI to debug code and improve operations
 
 //decided last minute not to use this panel
 
