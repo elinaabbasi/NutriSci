@@ -21,6 +21,7 @@ import java.util.Date;
 
 import database.DBConnection;
 
+//Use of AI: Used AI to debug code and improve operations
 /**
  * the MealLoggerPanel class provides a UI for logging meals
  *
