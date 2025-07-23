@@ -9,6 +9,7 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.util.function.Consumer;
 
+//Use of AI: Used AI to debug code and improve operations
 /**
  * a gui panel that allows users to create, save, and load a UserProfile
  * uses the ProfileManager class to get the user profiles so that it can save and load the profiles
