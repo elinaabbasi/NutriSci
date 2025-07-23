@@ -8,7 +8,7 @@ import model.UserProfile;
 
 import java.sql.*;
 
-
+//Use of AI: Used AI to debug code, create database queries, and improve operations
 /**
  * implements the IProfileManager interface to provide functionality for
  * saving UserProfile objects to the database and loading the UserProfile objects from the database.
