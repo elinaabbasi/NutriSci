@@ -9,6 +9,7 @@ import view.SwapApplierPanel;
 import view.GoalOptimizerPanel;
 import database.CNFLoader;
 
+//Use of AI: Used AI to debug code and improve operations
 public class Main {
     public static void main(String[] args) {
 
