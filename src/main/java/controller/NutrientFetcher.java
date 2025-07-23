@@ -9,7 +9,7 @@ import java.sql.ResultSet;
 import java.util.HashMap;
 import java.util.Map;
 
-
+//Use of AI: Used AI to debug code, create database queries, and improve operations
 /**
  * the NutrientFetcher class has methods for getting nutritional information for a specified food item from the database. 
  * it gets both the food name and its nutrient amounts and creates a Nutrient Profile object
