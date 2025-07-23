@@ -1,8 +1,8 @@
--- 1. Create database and use it
+
 CREATE DATABASE IF NOT EXISTS nutrientDB;
 USE nutrientDB;
 
--- 2. Independent tables first
+
 CREATE TABLE nutrient (
                           id INT PRIMARY KEY,
                           code VARCHAR(20),
