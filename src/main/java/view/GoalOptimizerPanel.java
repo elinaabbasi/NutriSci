@@ -10,7 +10,7 @@ import java.awt.*;
 import java.util.ArrayList;
 import java.util.List;
 
-
+//Use of AI: Used AI to debug code and improve operations
 /**
  * a gui panel that allows users to input goals (nutrient increase or decrease)
  * and receive food swap suggestions based on those goals
