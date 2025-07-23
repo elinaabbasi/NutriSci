@@ -16,6 +16,7 @@ import java.awt.Color;
 import java.text.DecimalFormat;
 import java.util.Set;
 
+//Use of AI: Used AI to debug code and improve operations
 
 /**
  * this class generates a bar chart that compares the nutrient composition of an original food versus a suggested swap
