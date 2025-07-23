@@ -13,6 +13,7 @@ import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.*;
 
+//Use of AI: Used AI to debug code, create SQL statements, and improve operations
 /**
  * a gui panel that visualizes the impact of food swaps on nutrient intake
  * over a user defined time period. it allows selection of a nutrient, time range,
