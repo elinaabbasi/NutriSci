@@ -11,7 +11,7 @@ import java.sql.ResultSet;
 import java.util.List;
 import java.util.Map;
 
-
+//Use of AI: Used AI to debug code, create database queries, and improve operations
 /**
  * the SwapEngine class has static methods to suggest food swaps
  * and to optimize food choices based on the users nutrient goals.
