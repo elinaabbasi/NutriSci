@@ -7,6 +7,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
+//Use of AI: Used AI to figure out how to create a database connection
+
 /*
  * this class uses the Singleton design pattern
  * this class ensures that only one instance of the database connection exists at any time
