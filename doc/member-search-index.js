@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"utils","c":"AppContext","l":"AppContext()","u":"%3Cinit%3E()"},{"p":"utils","c":"AppContext","l":"getCurrentProfile()"},{"p":"utils","c":"AppContext","l":"isProfileSet()"},{"p":"utils","c":"AppContext","l":"setCurrentProfile(UserProfile)","u":"setCurrentProfile(model.UserProfile)"}];updateSearchResults();
