@@ -51,7 +51,7 @@ public class Main {
                 tabbedPane.addTab("Goal Optimizer", new GoalOptimizerPanel(profile));
                 tabbedPane.addTab("CFG Plate", new CFGPlatePanel(profile));
                 tabbedPane.addTab("Swap Impact", new SwapImpactPanel(profile));
-                tabbedPane.addTab("Apply Swaps", new SwapApplierPanel(profile));
+                // tabbedPane.addTab("Apply Swaps", new SwapApplierPanel(profile));
                 tabbedPane.setSelectedIndex(1);
             });
         });
